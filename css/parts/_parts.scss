@@ -1,0 +1,27 @@
+
+html {
+    font-size: 100%;
+    font-family: "Noto Serif JP", serif;
+    width: 100%;
+    background-color: #FFFAFA;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    max-width: 1000px;
+    margin-inline: auto;
+    text-align: center;
+    padding-inline: 3%;
+
+}
